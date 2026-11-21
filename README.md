@@ -14,7 +14,3 @@ From-scratch C++ implementation and empirical time/space comparison of **Selecti
 - `n = 100`, Sorted `[1, 2, ..., 100]` (3 runs)
 - `n = 100`, Reverse Sorted `[100, 99, ..., 1]` (3 runs)
 
-## Compile and Run (C++17)
-```bash
-g++ -O2 sorting_analysis.cpp -o sorting_analysis
-./sorting_analysis
